@@ -22,3 +22,15 @@ return bmi.toFixed(1);
 const bmi = calcBMI("88,3", "1.75");
 console.log(bmi)
 */
+
+// Напиши функцію calculateAge(birthYear), яка приймає рік народження і повертає поточний вік користувача.
+// Використовуй для цього поточний рік, який можеш отримати за допомогою new Date().getFullYear().
+// Перевір роботу функції, вивівши результат у консоль для різних років народження.
+
+
+// function calculateAge(birthYear){
+//     const yearPlayer = new Date().getFullYear();
+//     return yearPlayer - birthYear;
+// }
+
+// console.log(calculateAge(2000));
